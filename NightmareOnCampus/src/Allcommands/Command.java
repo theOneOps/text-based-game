@@ -153,7 +153,7 @@ public abstract class Command implements Serializable{
 			}
 			else
 			{
-				System.out.println("\n\tWrong Password, you should try again, you have lost 5 life points for being stupid\n");
+				System.out.println("\n\tWrong Password, you should try again, you have lost 5 life points for being too rush in finding the password \n");
 				p.setNbLife(-5);
 			}
 		}
