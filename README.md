@@ -4,4 +4,4 @@
 
 !["display of the game after some fun"](./Capture_1.PNG "display of the game after some fun")
 
-For more informations about this game, you can consult ![the report](<./Report_of_theproject.pdf> "the report of the game")
+For more informations about this game, you can consult ![the report](<./Report_of_the project.pdf> "the report of the game")
